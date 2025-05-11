@@ -1,10 +1,14 @@
-# <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWltOXd3aTNyMHF3cXdva3l4Z2QxM3NxempydzdzdDA5aG95NDF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Profile Banner" width="100%"/></p>
-
 <h1 align="center">👋 Hi, I'm Mehemud Azad</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="mailto:mehemudazad.km@gmail.com"><img src="https://img.shields.io/badge/Email-mehemudazad.km%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWltOXd3aTNyMHF3cXdva3l4Z2QxM3NxempydzdzdDA5aG95NDF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Guy Coding GIF" width="300"/>
+</p>
+
+<p align="center">
+  <a href="mailto:mehemudazad.km@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mehemudazad.km%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 <h3 align="left">Connect with Me:</h3>
