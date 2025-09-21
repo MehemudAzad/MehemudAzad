@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Next.js, Docker, Kubernetes**
 - 📫 How to reach me: **MehemudAzad.km@gmail.com**
-- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+- ⚡ Fun fact: **It was a childhood dream, now I regret it!**
 - 🌍 Based in **Dhaka, Bangladesh**
 
 <br clear="both">
