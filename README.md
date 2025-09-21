@@ -115,7 +115,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehemudazad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehemudAzad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehemudazad&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
@@ -144,7 +144,7 @@
   <img src="https://img.shields.io/badge/Exploring-ML%2FDL%20on%20Kaggle-20BEFF?style=for-the-badge" />
 </div>
 
-## 😸 Honest Opinion
+## 😸 LIFE RN
 
 <div align="center">
   <!-- Replace this URL with your uploaded image URL -->
