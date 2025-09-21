@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Next.js, Docker, Kubernetes**
 - 📫 How to reach me: **MehemudAzad.km@gmail.com**
-- ⚡ Fun fact: **It was a childhood dream, now I regret it!**
+- ⚡ Fun fact: **I finished 3 copilots in 10 days!**
 - 🌍 Based in **Dhaka, Bangladesh**
 
 <br clear="both">
