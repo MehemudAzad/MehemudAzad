@@ -146,11 +146,11 @@
 
 ## 😸 LIFE RN
 
-<div align="center">
-  <!-- Replace this URL with your uploaded image URL -->
-  <img src="images/cat-meme.png" alt="Low salary, more coding!" width="400" />
-  
-</div>
+<p align="center">
+  <img src="images/cat-meme.png" alt="Low salary, more coding!" width="380" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWltOXd3aTNyMHF3cXdva3l4Z2QxM3NxempydzdzdDA5aG95NDF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Guy Coding GIF" width="380" />
+</p>
+
 
 ## 🐍 Contribution Snake
 
