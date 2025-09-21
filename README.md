@@ -154,9 +154,7 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-    ![snake gif](https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/MehemudAzad/MehemudAzad/blob/output/github-snake-dark.svg)
 
 ---
 
