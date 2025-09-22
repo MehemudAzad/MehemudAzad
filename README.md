@@ -15,7 +15,6 @@
 - 🔭 I'm currently working on **Cloud-Native Applications**
 - 🌱 I'm currently learning **Kubernetes Orchestration & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Docker, Kubernetes**
 - 📫 How to reach me: **MehemudAzad.km@gmail.com**
 - ⚡ Fun fact: **I finished 3 copilots in 10 days!**
 - 🌍 Based in **Dhaka, Bangladesh**
@@ -66,6 +65,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -129,7 +129,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MehemudAzad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehemudAzad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -152,7 +151,6 @@
 </p>
 
 
-## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/MehemudAzad/MehemudAzad/blob/output/github-snake-dark.svg)
 
