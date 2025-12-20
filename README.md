@@ -13,9 +13,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I'm interested in **Devops, LLMs and Agentic AI**
-- 🌱 I'm currently learning **DevSecOps and LLMs**
+- 🌱 I'm currently learning **DevSecOps and LLMs/Transformers**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **mehemudAzad.km@gmail.com**
+- 📫 How to reach me: **mehemudazad.km@gmail.com**
 - ⚡ Fun fact: **I have finished 3 copilots in 10 days!**
 - 🌍 Based in **Dhaka, Bangladesh**
 
