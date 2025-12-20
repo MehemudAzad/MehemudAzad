@@ -13,10 +13,10 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I'm currently working on **Cloud-Native Applications**
-- 🌱 I'm currently learning **Kubernetes Orchestration & Microservices**
+- 🌱 I'm currently learning **DevSecOps and LLMs**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **MehemudAzad.km@gmail.com**
-- ⚡ Fun fact: **I finished 3 copilots in 10 days!**
+- 📫 How to reach me: **mehemudAzad.km@gmail.com**
+- ⚡ Fun fact: **I have finished 3 copilots in 10 days!**
 - 🌍 Based in **Dhaka, Bangladesh**
 
 <br clear="both">
@@ -89,8 +89,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%23190A8C.svg?style=for-the-badge&logo=trivy&logoColor=white)
 
 </div>
+
 
 ### 🔧 Tools & Platforms
 <div align="center">
@@ -109,8 +115,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3A7BD5?style=for-the-badge&logo=optuna&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
+
 
 ## 📊 GitHub Statistics
 
@@ -121,17 +130,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehemudAzad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehemudAzad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehemudAzad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Focus
