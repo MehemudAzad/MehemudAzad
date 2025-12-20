@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm currently working on **Cloud-Native Applications**
+- 🔭 I'm interested in working on **Devops, LLMs and Agentic AI**
 - 🌱 I'm currently learning **DevSecOps and LLMs**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **mehemudAzad.km@gmail.com**
@@ -132,14 +132,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehemudAzad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Microservices%20Architecture-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Native%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Scalable%20Solutions-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-ML%2FDL%20on%20Kaggle-20BEFF?style=for-the-badge" />
-</div>
 
 ## 😸 LIFE RN
 
