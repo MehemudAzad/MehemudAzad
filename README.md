@@ -13,7 +13,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWltOXd3aTNyMHF3cXdva3l4Z2QxM3NxempydzdzdDA5aG95NDF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Guy Coding GIF" width="380" />
 
-- I'm currently a student of **Bangladesh University of Engineering and Technology**(3rd year 2nd semister)
+- I'm currently a student of **Bangladesh University of Engineering and Technology**(3rd year 2nd semester)
 - I'm interested in **Devops, LLMs and Agentic AI**
 - I'm currently learning **DevSecOps and LLMs/Transformers**
 - I'm looking to collaborate on **NLP/CV research work**
