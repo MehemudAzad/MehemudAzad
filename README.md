@@ -89,7 +89,7 @@ Autonomous maze robot — left-hand-rule search, triple-ultrasonic + MPU6050 fus
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,react,tailwind,spring,nodejs,postgres,redis,docker,kubernetes,terraform,githubactions,kafka,linux,git,cpp,java&perline=10" alt="Tech stack">
 
-<sub>**also working with** — Transformers · LangChain · Google ADK · MLflow · gRPC · SonarQube · Trivy · Solidity</sub>
+<sub>**also worked with** — Transformers · LangChain · Google ADK · MLflow · gRPC · SonarQube · Trivy · Solidity **and many more**</sub>
 
 ### `// milestones`
 
