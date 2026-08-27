@@ -18,7 +18,7 @@ Final-year CS undergrad at **BUET** who moved from shipping production systems i
 - **Undergrad thesis — vision-language models** — spatial reasoning in VLMs and the mechanistic interpretability behind it.
 - **Exploratory test automation with agentic AI** — an agent that explores mobile apps and generates tests without scripted paths.
 - **Bangla LLM-text detection** — curating a dataset of Bangla LLM-generated text and building detection methods on top of it.
-- **Agent evaluation &amp; protocols** — A2A-protocol agents, multi-agent orchestration, deterministic + LLM-as-judge scoring on the GAIA and Build-What-I-Mean benchmarks.
+- **Hallucination &amp; synthetic-media detection** — LLM hallucination detection, plus deepfake detection for images and video.
 
 ### `// projects`
 
