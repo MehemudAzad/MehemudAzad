@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/mehemud-azad-b6231629a/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=3fb950" alt="LinkedIn"></a>
   <a href="mailto:mehemudazad.km@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=3fb950" alt="Email"></a>
   <a href="https://github.com/MehemudAzad?tab=repositories"><img src="https://img.shields.io/badge/Repositories-21262d?style=flat-square&logo=github&logoColor=3fb950" alt="Repositories"></a>
+  <img src="https://komarev.com/ghpvc/?username=MehemudAzad&label=views&color=3fb950&style=flat-square&labelColor=21262d" alt="Profile views">
 </p>
 
 ### `// about`
@@ -99,17 +100,5 @@ Autonomous maze robot — left-hand-rule search, triple-ultrasonic + MPU6050 fus
 | **7th** | BUET DL Sprint 4.0 (2026) | NLP / ASR |
 | **Bronze** | Kaggle AIMO 3 (2026) | NLP |
 | **5th** | CUET Techathon 2025 | IoT |
-
-### `// activity`
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics — activity, languages, contribution calendar" width="100%">
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake.svg" width="100%">
-</picture>
 
 <div align="center"><sub>the rest lives on my <a href="https://mehemudazad.github.io">portfolio</a> &#8594;</sub></div>
