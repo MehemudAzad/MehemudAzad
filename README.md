@@ -1,149 +1,115 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="45" /> Hey there! I'm Mehemud Azad
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="./images/banner.svg" alt="Mehemud Azad — AI researcher, former DevOps and backend engineer" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
+<p align="center">
+  <a href="https://mehemudazad.github.io"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=googlechrome&logoColor=3fb950" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mehemud-azad-b6231629a/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=3fb950" alt="LinkedIn"></a>
+  <a href="mailto:mehemudazad.km@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=3fb950" alt="Email"></a>
+  <a href="https://github.com/MehemudAzad?tab=repositories"><img src="https://img.shields.io/badge/Repositories-21262d?style=flat-square&logo=github&logoColor=3fb950" alt="Repositories"></a>
+</p>
 
-## About Me
+### `// about`
 
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWltOXd3aTNyMHF3cXdva3l4Z2QxM3NxempydzdzdDA5aG95NDF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Guy Coding GIF" width="380" />
+Final-year CS undergrad at **BUET** who moved from shipping production systems into researching them. I spent my first years deep in **full-stack and DevOps/DevSecOps** — microservice platforms, CI/CD, Kubernetes, CTFs — and now my focus is **agentic AI, vision-language models, and NLP**. I still do the infrastructure work; I just point it at research problems now.
 
-- I'm currently a student of **Bangladesh University of Engineering and Technology**(3rd year 2nd semester)
-- I'm interested in **Devops, LLMs and Agentic AI**
-- I'm currently learning **DevSecOps and LLMs/Transformers**
-- I'm looking to collaborate on **NLP/CV research work**
-- How to reach me: **mehemudazad.km@gmail.com**
-- 🌍 Based in **Dhaka, Bangladesh**
+### `// research`
 
-<br clear="both">
+- **Undergrad thesis — vision-language models** — spatial reasoning in VLMs and the mechanistic interpretability behind it.
+- **Exploratory test automation with agentic AI** — an agent that explores mobile apps and generates tests without scripted paths.
+- **Bangla LLM-text detection** — curating a dataset of Bangla LLM-generated text and building detection methods on top of it.
+- **Agent evaluation &amp; protocols** — A2A-protocol agents, multi-agent orchestration, deterministic + LLM-as-judge scoring on the GAIA and Build-What-I-Mean benchmarks.
 
+### `// projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Connect with Me
+**[Verilens — AI-media detector](https://github.com/MehemudAzad/verilens-chrome-extension)**
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehemud-azad-b6231629a/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/km.MehemudAzad/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MehemudAzad.km@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://MehemudAzad.github.io)
+Manifest-V3 Chrome extension that flags AI-generated media and misinformation on X, Instagram, and Facebook — C2PA provenance first, then deepfake models and automated fact-checking.
 
-</div>
+`JavaScript` · `Manifest V3` · `C2PA` · `Deepfake detection`
 
+</td>
+<td width="50%" valign="top">
 
-## Tech Stack
+**[Purple Agent — Build-What-I-Mean](https://github.com/MehemudAzad/purple-agent-build-what-i-say)**
 
-### 👨‍💻 Programming Languages
-<div align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+Standalone LLM agent for the Build-What-I-Mean benchmark. Two-stage pipeline with speaker-aware pragmatic inference over the A2A protocol.
 
-</div>
+`Python` · `LLM` · `A2A Protocol`
 
-### 🎨 Frontend Development
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**[CareForAll — API Avengers 🏆](https://github.com/MehemudAzad/fat32-api-avengers)**
 
-### ⚙️ Backend Development
-<div align="center">
-  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+CUET API Avengers **champion**. Event-driven donation platform: FastAPI microservices, Kafka workflows, gRPC comms, full observability, CI/CD, Kubernetes.
 
-</div>
+`FastAPI` · `Kafka` · `gRPC` · `Kubernetes`
 
-### 🗄️ Databases & Caching
-<div align="center">
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-</div>
+**[The Freelancer](https://github.com/MehemudAzad/the-freelancer)**
 
-### ☁️ DevOps & Cloud Technologies
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-%23190A8C.svg?style=for-the-badge&logo=trivy&logoColor=white)
+Microservices freelancing platform — API gateway, JWT auth, escrow payments, workspace collaboration, and vector-search matching.
 
-</div>
+`Spring Boot` · `Next.js` · `Kafka` · `PostgreSQL`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔧 Tools & Platforms
-<div align="center">
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=foundry&logoColor=white)
+**[C-to-8086 Compiler](https://github.com/MehemudAzad/CSE-310-COMPILER)**
 
-</div>
+Full compiler pipeline from scratch: symbol table, Flex lexer, ANTLR4 parser + semantics, 8086 assembly codegen with optimization.
 
-### 🤖 AI/ML
-<div align="center">
-  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-3A7BD5?style=for-the-badge&logo=optuna&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+`C++` · `Flex` · `ANTLR4`
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-![snake gif](https://github.com/MehemudAzad/MehemudAzad/blob/output/github-snake-dark.svg)
+**[ATmega32 Maze Solver](https://github.com/MehemudAzad/MAZE-SOLVER-ATMEGA32-PROJECT-CSE-316)**
 
+Autonomous maze robot — left-hand-rule search, triple-ultrasonic + MPU6050 fusion, PID-assisted movement on bare hardware.
 
-## 📊 GitHub Statistics
+`C++` · `ATmega32` · `PlatformIO`
+
+</td>
+</tr>
+</table>
+
+### `// stack`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,react,tailwind,spring,nodejs,postgres,redis,docker,kubernetes,terraform,githubactions,kafka,linux,git,cpp,java&perline=10" alt="Tech stack">
+
+<sub>**also working with** — Transformers · LangChain · Google ADK · MLflow · gRPC · SonarQube · Trivy · Solidity</sub>
+
+### `// milestones`
+
+| Result | Event | Field |
+|---|---|---|
+| **Champion** | CUET API Avengers 2025 | DevOps · microservices |
+| **7th** | BUET DL Sprint 4.0 (2026) | NLP / ASR |
+| **Bronze** | Kaggle AIMO 3 (2026) | NLP |
+| **5th** | CUET Techathon 2025 | IoT |
+
+### `// activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehemudAzad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehemudAzad&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="./github-metrics.svg" alt="GitHub metrics — activity, languages, contribution calendar" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehemudAzad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MehemudAzad/MehemudAzad/output/github-snake.svg" width="100%">
+</picture>
 
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehemudAzad&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
-</div>
+<div align="center"><sub>the rest lives on my <a href="https://mehemudazad.github.io">portfolio</a> &#8594;</sub></div>
